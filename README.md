@@ -2,4 +2,4 @@
 
 1,register information of the user to the database
 
-[![register.png](https://i.postimg.cc/N0GDN3k1/register.png)](https://postimg.cc/ZWg6nDgR)
+[![register.png](https://i.postimg.cc/KYLGHWc8/register.png)](https://postimg.cc/Mc6JcdjC)
