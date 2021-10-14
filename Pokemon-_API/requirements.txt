@@ -2,3 +2,4 @@ Flask
 datetime
 Flask-SQLAlchemy
 PyJWT
+flask-login
